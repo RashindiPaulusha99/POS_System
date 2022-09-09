@@ -6,7 +6,7 @@
 ![park](assets/images/pos.png)
 
 # *Introduction* 📝
-This is a single page application in memory Pos System.
+This is a single page in memory Pos System.
 This POS System is created using HTML , CSS for Web interface and JQuery used for implement functions.
 
 # *Objectives* 🔑
