@@ -31,6 +31,7 @@ Below you can see the languages architectures, tools I used  the project.
 * HTML
 * CSS
 * JavaScript - JQuery
+* Bootstrap
 
 ## Tools
 * IntelliJ IDEA
