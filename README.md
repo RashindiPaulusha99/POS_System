@@ -21,3 +21,16 @@ Implement Single Page Application
 3. Place A Order
 4. Search Order
  
+# *Details* 🔖
+Below you can see the languages architectures, tools I used  the project.
+
+## Architectures
+*  MVC
+
+## Language and Framework
+* HTML
+* CSS
+* JavaScript - JQuery
+
+## Tools
+* IntelliJ IDEA
